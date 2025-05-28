@@ -31,7 +31,8 @@
 6. Now Run Project Using Command
 
 npm run server
->>> Before Running Client Projects make sure Server is Running
+
+Before Running Client Projects make sure Server is Running
 
 ❖ Steps To Run Client of The Project
 
